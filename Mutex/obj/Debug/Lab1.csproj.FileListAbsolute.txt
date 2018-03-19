@@ -1,0 +1,7 @@
+C:\Users\catal\source\repos\Mutex\Mutex\bin\Debug\Mutex.exe.config
+C:\Users\catal\source\repos\Mutex\Mutex\bin\Debug\Mutex.exe
+C:\Users\catal\source\repos\Mutex\Mutex\bin\Debug\Mutex.pdb
+C:\Users\catal\source\repos\Mutex\Mutex\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\catal\source\repos\Mutex\Mutex\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\catal\source\repos\Mutex\Mutex\obj\Debug\Mutex.exe
+C:\Users\catal\source\repos\Mutex\Mutex\obj\Debug\Mutex.pdb
